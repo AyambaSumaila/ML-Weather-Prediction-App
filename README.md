@@ -28,3 +28,33 @@ Feature engineering involves selecting and transforming the features in the data
 ## About the Dataset
 The dataset used in this project includes historical weather data such as precipitation, temperature, wind, and weather conditions. The purpose of this dataset is to provide the necessary data for the machine learning model to learn the relationships between the different weather variables and make accurate predictions.
 
+
+# Weather Prediction System
+## Table of Contents
+## Project Overview
+## Problem Statement
+## Importance of the Project
+## Features
+## Installation
+## Usage
+## Contributing
+## License
+## Acknowledgements
+## Project Overview
+The Weather Prediction System is a machine learning-based application that forecasts weather conditions such as temperature, humidity, and precipitation. This project aims to provide accurate and reliable weather predictions to help individuals and organizations plan their activities effectively.
+
+## Problem Statement
+Weather prediction is a critical component in planning daily activities and managing resources in sectors such as agriculture, aviation, and disaster management. Traditional methods of weather prediction rely heavily on complex mathematical models and simulations, which can be computationally intensive and slow. Our project aims to leverage machine learning techniques to create a more efficient and accurate weather prediction system.
+
+## Importance of the Project
+Agriculture: Helps farmers decide the best times for planting and harvesting crops.
+Aviation: Assists in flight planning to avoid adverse weather conditions.
+Disaster Management: Provides early warnings for extreme weather events, potentially saving lives and property.
+Daily Planning: Allows individuals to plan their daily activities with better accuracy.
+Features
+Predicts temperature, humidity, and precipitation.
+Utilizes real-time data from various weather stations.
+User-friendly interface for inputting data and viewing predictions.
+Scalable model that can be adapted for different regions.
+
+
