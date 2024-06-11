@@ -56,5 +56,4 @@ Predicts temperature, humidity, and precipitation.
 Utilizes real-time data from various weather stations.
 User-friendly interface for inputting data and viewing predictions.
 Scalable model that can be adapted for different regions.
-![Screenshot_2.png](images/Screenshot_2.png)
 ![Screenshot from 2024-06-07 12-21-22.png](Screenshot from 2024-06-07 12-21-22.png)
